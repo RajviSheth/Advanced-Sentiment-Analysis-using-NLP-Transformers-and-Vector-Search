@@ -8,5 +8,5 @@ This graph is produced by searching in the vector embeddings and analyzing hotel
 
 
 
-The Dataset used from huggingFace : https://huggingface.co/datasets/ashraq/hotel-reviews
+The Dataset used from huggingFace : https://huggingface.co/datasets/ashraq/hotel-reviews.
 The Model used for this project: https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment
